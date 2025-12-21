@@ -12,3 +12,5 @@ build/
 
 # Не игнорировать important.txt (исключение)
 !important.txt
+
+work_gitignore/
